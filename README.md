@@ -49,7 +49,5 @@ USAGE:
 Copy all files to one folder, launch: ms_gmm_demo
 
 **Authors**:
-[Andrzej Polanski]
-[Michał Marczyk](http://zaed.aei.polsl.pl/index.php/pl/7-michal-marczyk)
-[Joanna Polanska] (http://zaed.aei.polsl.pl/index.php/pl/2-joanna-polanska)
-# Spec-GMM
+[Andrzej Polanski][Michał Marczyk][Joanna Polanska; joanna.polanska@polsl.pl]
+
